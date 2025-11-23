@@ -1,0 +1,5 @@
+批改人：胡蓓慧
+得分：49/50
+扣分点：
+1.1 [5 points] Compute the total number of deaths caused by earthquakes since 2150 B.C. in each country, and then print the top ten countries along with the total number of deaths.
+要输出10个国家对应的总死亡人数，而不是10个国家死亡人数总和（-1分）
